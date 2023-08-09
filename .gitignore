@@ -1,0 +1,10 @@
+/build
+/node_modules
+
+/.idea
+/.vscode
+
+# System files
+.DS_Store
+Thumbs.db
+.Trash
